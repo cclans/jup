@@ -4,7 +4,6 @@ import fetch from "isomorphic-fetch";
 import * as _ from 'lodash';
 import bs58 from 'bs58'
 
-const RPC_ENDPOINT = "https://cool-bitter-river.solana-mainnet.quiknode.pro/3a139f87ade69ba99a0db4ea3b720cdbab3c86e4/"
 const quikNodeFrostRpc = 'https://frosty-red-morning.solana-mainnet.quiknode.pro'
 const USDC_MINT_ADDRESS = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
 const SOL_MINT_ADDRESS = "So11111111111111111111111111111111111111112"
